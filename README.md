@@ -1,4 +1,5 @@
 ## Travel Guide App on React
+The project is created with React and it uses Travel Advisor API & Google API. With this app user can find best restaurants, hotels & attractions nearby. it also has a budget planner to help user calculating his budget.
 
 ![Screenshot2](https://user-images.githubusercontent.com/103144221/176587581-b2753215-d2fa-474a-9f2f-277417aa2a5e.png)
 
@@ -9,8 +10,6 @@
 ![image](https://user-images.githubusercontent.com/103144221/176587132-9d0505b8-c459-4b18-9c82-5dcb49b1e963.png)
 
 
-
-The project is created with React and it uses Travel Advisor API & Google API. With this app user can find best restaurants, hotels & attractions nearby. it also has a budget planner to help user calculating his budget.
 
 ### Technologies
 Project is created with:
